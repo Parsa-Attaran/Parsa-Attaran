@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=radical&height=300&them=neon&section=header&text="Hello+World"&animation=twinkling&fontFamily=fontFamily=JetBrains%20Mono&fontSize=90- [wave](https://github.com/kyechan99/capsule-render#wave
+![header](https://capsule-render.vercel.app/api؟type=waving&theme=radical&height=300&them=neon&section=header&text="Hello+World"&animation=twinkling&fontFamily=fontFamily=JetBrains%20Mono&fontSize=90
