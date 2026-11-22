@@ -60,22 +60,6 @@ I like figuring things out, asking questions, and taking on problems that make m
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,dart,flutter,c,cpp,mysql,sqlite,git,linux&theme=dark&perline=12" width="600" alt="C#, .NET, Java, Python, Dart, Flutter, C, C++, MySQL, SQLite, Git, and Linux" />
 </p>
 
-## Selected work
-
-- **[Clean Book Auth API](https://github.com/Parsa-Attaran/Clean-Book-Auth-API)** — Layered GraphQL API with identity management, JWT authentication, and SQLite persistence.<br>
-  `C#` · `.NET 10` · `GraphQL` · `Entity Framework Core`
-
-- **[Music Player](https://github.com/Parsa-Attaran/Music-Player)** — Collaborative client–server music application using TCP sockets and framed JSON messaging.<br>
-  `Flutter` · `Dart` · `Java` · `TCP`
-
-- **[Sudoku BP](https://github.com/Parsa-Attaran/Sudoku-BP)** — Terminal Sudoku game with generated levels, persistent progress, hints, undo, timing, and leaderboards.<br>
-  `C++` · `Persistence` · `Algorithms`
-
-- **[Learn Linux](https://github.com/Parsa-Attaran/Learn-Linux)** — Practical Persian guide covering Linux files, permissions, processes, streams, `grep`, regular expressions, and globbing.<br>
-  `Linux` · `Technical writing`
-
-[View all repositories →](https://github.com/Parsa-Attaran?tab=repositories)
-
 ## Currently exploring
 
 - Authentication architecture and token lifecycle design
