@@ -21,10 +21,6 @@ Outside software, **music is the constant in my day**. I listen to it for most o
 
 I am happiest when I am discovering something unfamiliar, untangling a complex project, or working through a challenge that does not reveal its answer immediately.
 
-<p align="center">
-  <img src="./assets/beyond-code.svg" width="100%" alt="Beyond code: music, piano and violin, eight years of Dota 2, and a love of difficult projects and discovery" />
-</p>
-
 ## Technical toolkit
 
 | Area | Technologies |
