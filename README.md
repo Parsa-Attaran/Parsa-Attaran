@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## About ME
+## Get to know ME!!
 
 I'm a Computer Engineering student at **Shahid Beheshti University**, driven by curiosity and a genuine interest in understanding how things work.
 
@@ -26,6 +26,8 @@ I'm not particularly interested in sticking to one stack or following a predefin
 Beyond code, music has always been a big part of my life. I play the **piano and violin**, and I'm rarely far from a pair of headphones. I'm also a long-time gamer, with **Dota 2** being a particular favorite.
 
 I like figuring things out, asking questions, and taking on problems that make me think. That's probably what keeps me interested in engineering in the first place.## Technical toolkit
+
+## Technical toolkit
 
 <table align="center">
   <thead>
