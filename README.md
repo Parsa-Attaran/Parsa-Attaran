@@ -11,6 +11,14 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,dart,flutter,c,cpp,mysql,sqlite,git,linux&theme=dark&perline=12" width="600" alt="C#, .NET, Java, Python, Dart, Flutter, C, C++, MySQL, SQLite, Git, and Linux" />
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Parsa-Attaran">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Parsa-Attaran&theme=tokyonight" width="100%" alt="Animated terminal-style GitHub statistics for Parsa-Attaran" />
+  </a>
+</p>
+
 ## About
 
 I am a Computer Engineering student at **Shahid Beheshti University**, interested in the parts of software where structure matters: authentication, client–server protocols, data flow, and workflow automation.
@@ -52,14 +60,6 @@ I am happiest when I am discovering something unfamiliar, untangling a complex p
 - Stateful automation for operational and administrative workflows
 - DevOps fundamentals and reliable delivery pipelines
 - Data structures, algorithms, and maintainable system boundaries
-
-## GitHub activity
-
-<p align="center">
-  <a href="https://github.com/Parsa-Attaran">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Parsa-Attaran&theme=tokyonight" width="100%" alt="Animated terminal-style GitHub statistics for Parsa-Attaran" />
-  </a>
-</p>
 
 ## Connect
 
