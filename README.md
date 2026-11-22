@@ -17,6 +17,14 @@ I am a Computer Engineering student at **Shahid Beheshti University**, intereste
 
 My projects move between **.NET backends**, **Java and Flutter applications**, and **Python automation**. I use each one to understand a system end to end—from API boundaries and persistence to concurrency and user-facing behavior.
 
+Outside software, **music is the constant in my day**. I listen to it for most of my waking hours and play both **piano and violin**. I am also a long-time gamer—especially Dota 2, which has kept me thinking about strategy, systems, and adaptation for eight years.
+
+I am happiest when I am discovering something unfamiliar, untangling a complex project, or working through a challenge that does not reveal its answer immediately.
+
+<p align="center">
+  <img src="./assets/beyond-code.svg" width="100%" alt="Beyond code: music, piano and violin, eight years of Dota 2, and a love of difficult projects and discovery" />
+</p>
+
 ## Technical toolkit
 
 | Area | Technologies |
@@ -28,43 +36,23 @@ My projects move between **.NET backends**, **Java and Flutter applications**, a
 
 ## Selected work
 
-### [Clean Book Auth API](https://github.com/Parsa-Attaran/Clean-Book-Auth-API)
+Each project is a different kind of systems exercise—from authentication boundaries and socket protocols to persistent game state and technical writing.
 
-A layered **.NET 10 GraphQL API** for books and user accounts, separated into domain, application, infrastructure, and host projects. It combines ASP.NET Identity with JWT access/refresh tokens, secure cookies, EF Core, and SQLite.
+<a href="https://github.com/Parsa-Attaran/Clean-Book-Auth-API">
+  <img src="./assets/projects/clean-book-auth.svg" width="100%" alt="Clean Book Auth API — layered .NET 10 GraphQL API with Identity, JWT, EF Core, and SQLite" />
+</a>
 
-`C#` · `.NET 10` · `GraphQL` · `EF Core` · `ASP.NET Identity` · `SQLite`
+<a href="https://github.com/Parsa-Attaran/Music-Player">
+  <img src="./assets/projects/music-player.svg" width="100%" alt="Music Player — collaborative Flutter and Java client-server application using sockets and framed JSON" />
+</a>
 
-**Engineering focus:** authentication lifecycle, separation of concerns, dependency injection, authorization, and centralized exception handling.
+<a href="https://github.com/Parsa-Attaran/Sudoku-BP">
+  <img src="./assets/projects/sudoku-bp.svg" width="100%" alt="Sudoku BP — C++ terminal game with generated levels, persistence, timing, hints, undo, and leaderboards" />
+</a>
 
----
-
-### [Music Player](https://github.com/Parsa-Attaran/Music-Player)
-
-A collaborative client–server music application with a **Flutter client** and a **multithreaded Java socket server**. The two sides communicate through framed JSON messages, while the backend manages users, songs, artists, albums, and playlists.
-
-`Flutter` · `Dart` · `Java` · `TCP sockets` · `Gson` · `JSON`
-
-**Engineering focus:** protocol design, asynchronous communication, request routing, media workflows, and file-based persistence.
-
----
-
-### [Sudoku BP](https://github.com/Parsa-Attaran/Sudoku-BP)
-
-A C++ terminal Sudoku game with generated difficulty levels, timed sessions, hints, undo, save/resume, user accounts, scoring, and leaderboards.
-
-`C++` · `Threads` · `File persistence` · `Terminal UI`
-
-**Engineering focus:** game-state management, persistence, timing, dynamic memory, and data-structure-driven features.
-
----
-
-### [Learn Linux](https://github.com/Parsa-Attaran/Learn-Linux)
-
-A Persian-language Linux command-line guide built around practical examples of files, permissions, processes, pipes, redirection, text processing, `grep`, regular expressions, and shell globbing.
-
-`Linux` · `Shell` · `Technical writing`
-
-**Engineering focus:** explaining systems concepts clearly and turning command-line behavior into reproducible learning material.
+<a href="https://github.com/Parsa-Attaran/Learn-Linux">
+  <img src="./assets/projects/learn-linux.svg" width="100%" alt="Learn Linux — practical Persian guide to files, permissions, processes, streams, grep, regular expressions, and globbing" />
+</a>
 
 ## Currently exploring
 
