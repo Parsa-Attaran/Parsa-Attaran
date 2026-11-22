@@ -15,11 +15,11 @@
   </a>
 </p>
 
-## About
+## About ME
 
 I'm a Computer Engineering student at **Shahid Beheshti University**, driven by curiosity and a genuine interest in understanding how things work.
 
-I enjoy building software, exploring different areas of engineering, and getting into the details that make systems work — from backend architecture and communication protocols to automation and application development. I've worked with technologies like **.NET, Java, Flutter, Go, and Python**, and I enjoy moving between them as different problems call for different approaches.
+I enjoy building software, exploring different areas of engineering, and getting into the details that make systems work from backend architecture and communication protocols to automation and application development. I've worked with technologies like **.NET, Java, Flutter, Go, and Python**, and I enjoy moving between them as different problems call for different approaches.
 
 I'm not particularly interested in sticking to one stack or following a predefined path. I would rather explore unfamiliar concepts, build things from scratch, and understand the reasoning behind the solutions I use.
 
