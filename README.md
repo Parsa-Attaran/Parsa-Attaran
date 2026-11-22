@@ -7,8 +7,6 @@
   <a href="https://t.me/In_depthSci"><img src="https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=67e8f9" alt="Telegram" /></a>
 </p>
 
-
-
 ## GitHub activity
 
 <p align="center">
@@ -29,12 +27,32 @@ I am happiest when I am discovering something unfamiliar, untangling a complex p
 
 ## Technical toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `C#` `Java` `Python` `Dart` `C` `C++` `SQL` |
-| **Backend** | `.NET` `ASP.NET Core` `GraphQL` `Entity Framework Core` `ASP.NET Identity` `JWT` |
-| **Application & systems** | `Flutter` `TCP sockets` `Multithreading` |
-| **Data & tooling** | `SQLite` `MySQL` `Git` `Linux` `JSON persistence` |
+<table align="center">
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td><code>C#</code> <code>Java</code> <code>Python</code> <code>Dart</code> <code>C</code> <code>C++</code> <code>SQL</code></td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td><code>.NET</code> <code>ASP.NET Core</code> <code>GraphQL</code> <code>Entity Framework Core</code> <code>ASP.NET Identity</code> <code>JWT</code></td>
+    </tr>
+    <tr>
+      <td><strong>Application &amp; systems</strong></td>
+      <td><code>Flutter</code> <code>TCP sockets</code> <code>Multithreading</code></td>
+    </tr>
+    <tr>
+      <td><strong>Data &amp; tooling</strong></td>
+      <td><code>SQLite</code> <code>MySQL</code> <code>Git</code> <code>Linux</code> <code>JSON persistence</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,dart,flutter,c,cpp,mysql,sqlite,git,linux&theme=dark&perline=12" width="600" alt="C#, .NET, Java, Python, Dart, Flutter, C, C++, MySQL, SQLite, Git, and Linux" />
