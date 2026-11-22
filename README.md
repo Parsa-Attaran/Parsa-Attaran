@@ -32,23 +32,16 @@ I am happiest when I am discovering something unfamiliar, untangling a complex p
 
 ## Selected work
 
-Each project is a different kind of systems exercise—from authentication boundaries and socket protocols to persistent game state and technical writing.
+<p align="center">
+  <a href="https://github.com/Parsa-Attaran/Clean-Book-Auth-API">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parsa-Attaran&repo=Clean-Book-Auth-API&theme=tokyonight&hide_border=true" alt="Clean Book Auth API repository card" />
+  </a>
+  <a href="https://github.com/Parsa-Attaran/Music-Player">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parsa-Attaran&repo=Music-Player&theme=tokyonight&hide_border=true" alt="Music Player repository card" />
+  </a>
+</p>
 
-<a href="https://github.com/Parsa-Attaran/Clean-Book-Auth-API">
-  <img src="./assets/projects/clean-book-auth.svg" width="100%" alt="Clean Book Auth API — layered .NET 10 GraphQL API with Identity, JWT, EF Core, and SQLite" />
-</a>
-
-<a href="https://github.com/Parsa-Attaran/Music-Player">
-  <img src="./assets/projects/music-player.svg" width="100%" alt="Music Player — collaborative Flutter and Java client-server application using sockets and framed JSON" />
-</a>
-
-<a href="https://github.com/Parsa-Attaran/Sudoku-BP">
-  <img src="./assets/projects/sudoku-bp.svg" width="100%" alt="Sudoku BP — C++ terminal game with generated levels, persistence, timing, hints, undo, and leaderboards" />
-</a>
-
-<a href="https://github.com/Parsa-Attaran/Learn-Linux">
-  <img src="./assets/projects/learn-linux.svg" width="100%" alt="Learn Linux — practical Persian guide to files, permissions, processes, streams, grep, regular expressions, and globbing" />
-</a>
+**More work:** [Sudoku BP](https://github.com/Parsa-Attaran/Sudoku-BP) · [Learn Linux](https://github.com/Parsa-Attaran/Learn-Linux) · [All repositories](https://github.com/Parsa-Attaran?tab=repositories)
 
 ## Currently exploring
 
