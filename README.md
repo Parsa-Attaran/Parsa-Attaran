@@ -59,7 +59,11 @@ Each project is a different kind of systems exercise—from authentication bound
 
 ## GitHub activity
 
-For the most accurate view of what I am building, see my live [repositories](https://github.com/Parsa-Attaran?tab=repositories) and [contribution history](https://github.com/Parsa-Attaran?tab=overview).
+<p align="center">
+  <a href="https://github.com/Parsa-Attaran">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Parsa-Attaran&theme=tokyonight" width="100%" alt="Animated terminal-style GitHub statistics for Parsa-Attaran" />
+  </a>
+</p>
 
 ## Connect
 
