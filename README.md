@@ -7,9 +7,7 @@
   <a href="https://t.me/In_depthSci"><img src="https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=67e8f9" alt="Telegram" /></a>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,dart,flutter,c,cpp,mysql,sqlite,git,linux&theme=dark&perline=12" width="600" alt="C#, .NET, Java, Python, Dart, Flutter, C, C++, MySQL, SQLite, Git, and Linux" />
-</p>
+
 
 ## GitHub activity
 
@@ -37,6 +35,10 @@ I am happiest when I am discovering something unfamiliar, untangling a complex p
 | **Backend** | `.NET` `ASP.NET Core` `GraphQL` `Entity Framework Core` `ASP.NET Identity` `JWT` |
 | **Application & systems** | `Flutter` `TCP sockets` `Multithreading` |
 | **Data & tooling** | `SQLite` `MySQL` `Git` `Linux` `JSON persistence` |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,dart,flutter,c,cpp,mysql,sqlite,git,linux&theme=dark&perline=12" width="600" alt="C#, .NET, Java, Python, Dart, Flutter, C, C++, MySQL, SQLite, Git, and Linux" />
+</p>
 
 ## Selected work
 
