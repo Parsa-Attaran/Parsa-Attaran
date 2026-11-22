@@ -17,15 +17,15 @@
 
 ## About
 
-I am a Computer Engineering student at **Shahid Beheshti University**, interested in the parts of software where structure matters: authentication, client–server protocols, data flow, and workflow automation.
+I'm a Computer Engineering student at **Shahid Beheshti University**, driven by curiosity and a genuine interest in understanding how things work.
 
-My projects move between **.NET backends**, **Java and Flutter applications**, and **Python automation**. I use each one to understand a system end to end—from API boundaries and persistence to concurrency and user-facing behavior.
+I enjoy building software, exploring different areas of engineering, and getting into the details that make systems work — from backend architecture and communication protocols to automation and application development. I've worked with technologies like **.NET, Java, Flutter, Go, and Python**, and I enjoy moving between them as different problems call for different approaches.
 
-Outside software, **music is the constant in my day**. I listen to it for most of my waking hours and play both **piano and violin**. I am also a long-time gamer—especially Dota 2, which has kept me thinking about strategy, systems, and adaptation for eight years.
+I'm not particularly interested in sticking to one stack or following a predefined path. I would rather explore unfamiliar concepts, build things from scratch, and understand the reasoning behind the solutions I use.
 
-I am happiest when I am discovering something unfamiliar, untangling a complex project, or working through a challenge that does not reveal its answer immediately.
+Beyond code, music has always been a big part of my life. I play the **piano and violin**, and I'm rarely far from a pair of headphones. I'm also a long-time gamer, with **Dota 2** being a particular favorite.
 
-## Technical toolkit
+I like figuring things out, asking questions, and taking on problems that make me think. That's probably what keeps me interested in engineering in the first place.## Technical toolkit
 
 <table align="center">
   <thead>
