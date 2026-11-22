@@ -32,16 +32,19 @@ I am happiest when I am discovering something unfamiliar, untangling a complex p
 
 ## Selected work
 
-<p align="center">
-  <a href="https://github.com/Parsa-Attaran/Clean-Book-Auth-API">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parsa-Attaran&repo=Clean-Book-Auth-API&theme=tokyonight&hide_border=true" alt="Clean Book Auth API repository card" />
-  </a>
-  <a href="https://github.com/Parsa-Attaran/Music-Player">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Parsa-Attaran&repo=Music-Player&theme=tokyonight&hide_border=true" alt="Music Player repository card" />
-  </a>
-</p>
+- **[Clean Book Auth API](https://github.com/Parsa-Attaran/Clean-Book-Auth-API)** — Layered GraphQL API with identity management, JWT authentication, and SQLite persistence.<br>
+  `C#` · `.NET 10` · `GraphQL` · `Entity Framework Core`
 
-**More work:** [Sudoku BP](https://github.com/Parsa-Attaran/Sudoku-BP) · [Learn Linux](https://github.com/Parsa-Attaran/Learn-Linux) · [All repositories](https://github.com/Parsa-Attaran?tab=repositories)
+- **[Music Player](https://github.com/Parsa-Attaran/Music-Player)** — Collaborative client–server music application using TCP sockets and framed JSON messaging.<br>
+  `Flutter` · `Dart` · `Java` · `TCP`
+
+- **[Sudoku BP](https://github.com/Parsa-Attaran/Sudoku-BP)** — Terminal Sudoku game with generated levels, persistent progress, hints, undo, timing, and leaderboards.<br>
+  `C++` · `Persistence` · `Algorithms`
+
+- **[Learn Linux](https://github.com/Parsa-Attaran/Learn-Linux)** — Practical Persian guide covering Linux files, permissions, processes, streams, `grep`, regular expressions, and globbing.<br>
+  `Linux` · `Technical writing`
+
+[View all repositories →](https://github.com/Parsa-Attaran?tab=repositories)
 
 ## Currently exploring
 
