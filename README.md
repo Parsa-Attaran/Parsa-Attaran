@@ -5,6 +5,7 @@
 <p align="center">
   <a href="mailto:parsa.attaran84@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=67e8f9" alt="Email" /></a>
   <a href="https://t.me/In_depthSci"><img src="https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=67e8f9" alt="Telegram" /></a>
+  <a href="https://parsa-attaran.ir"><img src="https://img.shields.io/badge/Website-0f172a?style=flat-square&logo=googlechrome&logoColor=67e8f9" alt="Website" /></a>
 </p>
 
 ## GitHub activity
@@ -73,6 +74,7 @@ If you would like to discuss backend systems, automation, or a project idea:
 
 - **Email:** [parsa.attaran84@gmail.com](mailto:parsa.attaran84@gmail.com)
 - **Telegram:** [@In_depthSci](https://t.me/In_depthSci)
+- **Website:** [parsa-attaran.ir](https://parsa-attaran.ir)
 
 ## Contribution trail
 
